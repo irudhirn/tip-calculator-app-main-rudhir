@@ -222,7 +222,7 @@ h2 {
   background-color: var(--strong-cyan);
   color: var(--very-dark-cyan);
   border: none;
-  border-radius: 5rem;
+  border-radius: 0.5rem;
   text-transform: uppercase;
   font-size: 2rem;
   font-weight: 700;
